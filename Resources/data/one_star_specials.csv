@@ -1,0 +1,550 @@
+name,url,specialties
+Kilian Stuba,https://guide.michelin.com/at/en/vorarlberg/kleinwalsertal/restaurant/kilian-stuba,"['Steinbutt in schäumender Butter gebraten, Kaviar, Erdäpfelschaum, Sauerrahm', 'Wachtelbrust mit Petersilie souffliert, Steinpilz-Gnocchi, Zwetschge, Madeiraglace', 'Marille und Mandelmilch, weiße Schokolade, Gebirgsenzian, Mohnsablé, Pistazienöl']"
+Pfefferschiff,https://guide.michelin.com/at/en/salzburg-region/hallwang/restaurant/pfefferschiff,"['Saibling, Pfirsich, Verbene, Buttermilch', 'Rehrücken, Zwetschke, Topinambur, Kaffee', 'Walnuss, Savarin und Eis, Traube, Akazie, Pastinake']"
+Esszimmer,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/esszimmer,"['Jakobsmuschel und Kaisergranat, Tomate, Gurke', 'Kaninchenrücken und Keule mit Limette, Paprika', 'Gefüllte Schokoblätter mit Mango und Pistazien']"
+Carpe Diem,https://guide.michelin.com/at/en/salzburg-region/salzburg/restaurant/carpe-diem,
+Edvard,https://guide.michelin.com/at/en/vienna/wien/restaurant/edvard,"['Alpenkaviar, Pinzgauer Rind, Gillardeau Auster', 'Seezunge, Chioggia Beete, Amalfi', 'Kürbis, Opalys, Kurkuma']"
+Das Loft,https://guide.michelin.com/at/en/vienna/wien/restaurant/das-loft,
+Pramerl & the Wolf,https://guide.michelin.com/at/en/vienna/wien/restaurant/pramerl-the-wolf,"['Jakobsmuschel, Sellerie, grüner Apfel, geräucherte Gänseleber', 'Rehrücken, Rote Rüben, fermentiertes Rotkraut', 'Dunkle Schokolade, Erdnuss']"
+Walter Bauer,https://guide.michelin.com/at/en/vienna/wien/restaurant/walter-bauer,"['Gänseleberterrine mit Brioche', 'Rosa gebratener Lammrücken mit Gemüse', 'Kaiserschmarrn mit Zwetschkenröster']"
+SHIKI,https://guide.michelin.com/at/en/vienna/wien/restaurant/shiki,"['Variation vom Oktopus', 'In Miso gebeizte Entenbrust', 'Kürbistarte mit Pflaumensabayon und Kürbiskerneis']"
+Tian,https://guide.michelin.com/at/en/vienna/wien/restaurant/tian,"['Red Meat, Rote Emma, Radicchio', 'Trüffelpasta', 'Indian Summer, Apfel, Karamell, Tonkabohne']"
+aend,https://guide.michelin.com/at/en/vienna/wien/restaurant/aend,"['Saibling und Wacholder', 'Ente und Rosenkohl', 'Apfel und Traube']"
+Le Ciel by Toni Mörwald,https://guide.michelin.com/at/en/vienna/wien/restaurant/le-ciel-by-toni-morwald,"['Artischocke mit Krabbe, Kren und Lardo', 'Kabeljau mit Herzmuschel, Kürbis und Buchweizen', 'Andenbeere mit Dulce, Sanddorn und Ras el Hanout']"
+Chez TJ,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/chez-tj,"['Pommes soufflé with Kaluga hybrid caviar, parsnip meringue with chicory, and ""Rueben""', 'Chicken fried kale-stuffed quail with truffled red-eye gravy', 'Chocolate cake with huckleberry ganache']"
+Protégé,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/protege,"['New Bedford sea scallop, leeks, sorrel, champagne, Golden Ossetra caviar', 'Coddled hen egg, porcini marmalade, parmesan fondue, freshly grated black truffle', 'Pies, fruit tarts , plus daily churned ice creams and sorbets']"
+Madera,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madera,"['American ""wagyu"" beef tartare with garlic, chives, horseradish, egg yolk and succulents', 'Sonoma rabbit with hand cut tagliatelle, chanterelles and basil', '""School Days at Madera"" aka the bonbon collection']"
+The Village Pub,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-village-pub,"['Octopus carpaccio, smoked paprika oil, tomato confit', 'Pork paillard, jardiniere vegetables, violet mustard', 'Warm beignets with almond anglaise and cranberry compote']"
+Plumed Horse,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/plumed-horse,"['Parmesan souffle with uni and crab fondue', 'Heritage chicken with truffle and soup ravioli', 'Almond and fig tart']"
+Wakuriya,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wakuriya,"['Miso-butter poached lobster, pork and Napa cabbage mille-feuille style, kabocha soup with aburi mochi', 'Ocean trout and sake, kasu gratin grilled with sake lees sauce', 'Sesame cookie with black sugar jelly and sweet potato mousse']"
+Sushi Yoshizumi,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sushi-yoshizumi,"['Hairy crab with ginger dipping sauce, morsels of hairy crab leg meat, flesh dipped in a zippy and pungent ginger sauce', 'Nigiri including needlefish, squid, ear shell clam, triggerfish with liver sauce, maguro, toro, prawn, kohada, katsuo, kinmedai skin, aji, uni, anago', 'Matcha tea crème brûlée']"
+Rasa,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rasa,"['Spiced potato patty fritters, soft pav bread, tangy tamarind or cilantro chutney', 'Andhra chicken curry, onion, ginger, poppy seeds, cashew nuts, cilantro, coconut milk, Kerala paratha', 'Coconut espuma mango sorbet, coconut foam, candied basmati rice and pistachio dust']"
+Maum,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/maum,
+Al's Place,https://guide.michelin.com/us/en/california/san-francisco/restaurant/al-s-place,"['Freshly picked Blue Dane radishes', 'Sweet asparagus spears cooked a la plancha with burrata flecks of salty, crisp crushed potato chips', 'Meyer lemon strawberry tart with lavender ice cream']"
+Aster,https://guide.michelin.com/us/en/california/san-francisco/restaurant/aster,
+Omakase,https://guide.michelin.com/us/en/california/san-francisco/restaurant/omakase,"['Hokkaido uni chawanmushi', 'A5 Wagyu beef nigiri', 'Lychee panna cotta with shaved coconut ice']"
+Commonwealth,https://guide.michelin.com/us/en/california/san-francisco/restaurant/commonwealth,
+Luce,https://guide.michelin.com/us/en/california/san-francisco/restaurant/luce,"['Blue Prawn with roasted brown butter, espelette chili and Pistachio', 'Poached chicken with brussel sprouts, dates and pomegranate', 'Maple panna cotta with roasted squash, buttermilk sherbet and pecan crumble']"
+Birdsong,https://guide.michelin.com/us/en/california/san-francisco/restaurant/birdsong,"['seaweeds marinated in fishbone vinegar', 'aged duck, heart, gizzard, tongue tart made from the skin, liver & leg', 'apple sorbet, chartreuse, kefir, tart, licorice, sunflower seed, donut, cider, caramel, pate de fruit, peels']"
+In Situ,https://guide.michelin.com/us/en/california/san-francisco/restaurant/in-situ,"['Dadinhos de Tapioca, tapioca and cheese fritters', 'Spicy Pork Sausage & Rice Cakes, Sichuan peppercorn, yu choy', 'Honey Custard Tart, satsuma leaf ice cream and satsuma curd']"
+Mourad,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mourad,"['Lamb tartare with roasted garlic tahini and crispy lentils', 'Half chicken with marash, preserved lemon, couscous and gaeta olive', 'Yogurt and rosewater mousse with pistachio pain de genes and tayberry sorbet']"
+Hashiri,https://guide.michelin.com/us/en/california/san-francisco/restaurant/hashiri,"['Salmon roe starter', 'Golden eye snapper nigiri finished with light squeeze of lemon and salt', 'Honeydew sorbet topped with gold leaf with a cantaloupe puree']"
+Angler,https://guide.michelin.com/us/en/california/san-francisco/restaurant/angler,"['Antelope Tartar', 'Whole Petrale sole with smoked butter', 'Milk soft serve ice cream with smoked caramel, cacao nibs, salt']"
+Rich Table,https://guide.michelin.com/us/en/california/san-francisco/restaurant/rich-table,"['Chicken liver mousse, waffle and cherry', 'Tonnarelli, sea urchin cacio e pepe, Idiazabal', 'Watermelon ice, cucumber sherbet, mixed melon and mint']"
+Kin Khao,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao,"['Caramelized Pork belly cooked in a clay pot', 'Braised beef cheeks in Massaman curry paste, coconut milk, burnt shallots, potatoes', 'Black rice pudding with caramelized jackfruit in hibiscus, salty coconut cream, puffed rice peanut and sesame praline']"
+Michael Mina,https://guide.michelin.com/us/en/california/san-francisco/restaurant/michael-mina,"['Soft shell crab stuffed with cucumber, green almond, and accompanied by spicy chilled tomato and harissa broth', 'Yemenite-style strip steak , tomato and galangal matbucha, summer pepper', 'Muskmelon and coconut panna cotta, burnt fig leaf']"
+Sons & Daughters,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sons-daughters,"['Venison and avocado tostada', 'Koji-marinated black cod', 'Peaches and cream']"
+Mister Jiu's,https://guide.michelin.com/us/en/california/san-francisco/restaurant/mister-jius,"['Sourdough scallion pancakes', 'Black cod with celery root, black garlic and red kuri squash', 'Dragonwell Milk Tea Ice Cream, warren pear sorbet, shinko pear, bitter pine syrup']"
+Nico,https://guide.michelin.com/us/en/california/san-francisco/restaurant/nico,
+jū-ni,https://guide.michelin.com/us/en/california/san-francisco/restaurant/ju-ni,"['Sweet Kegani meat with white miso butter, pickled cucumber and scallions', 'Omakase Nigiri and sashimi selection', 'Housemade mochi with sweet azuki paste']"
+Keiko à Nob Hill,https://guide.michelin.com/us/en/california/san-francisco/restaurant/keiko-a-nob-hill,"['Ayu fish with Sakura smoke', 'Uni with cauliflower puree', 'Panna cotta with mint ice cream']"
+The Progress,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-progress,"['Cavatelli with braised rabbit ,mushrooms, bacon, sage, fresh stone fruit', 'BBQ Liberty Farms half duck with spicy peanuts, thai basil and smoked chili vinegar', 'Peanut milk shot']"
+State Bird Provisions,https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions,"['Fig toast with black sesame balsamic and goat cheese', 'Fried Wolfe Ranch quail', 'Melting chocolate pistachio torte']"
+Octavia,https://guide.michelin.com/us/en/california/san-francisco/restaurant/octavia,"['Saffron fettuccine with fennel and garlic', 'Duck with grilled peaches, onions and duck jus', ""Devil's food cake with corn sabayon, candied corn flake, and chocolate ice cream""]"
+SPQR,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spqr,"['Beet and ricotta rotolo, pine nut, bull’s blood, red wine cheese', 'Senise pepper campanelle, smoked tomato ragu and Alaskan King crab', 'Tiramisu, espresso, mascarpone, cocoa']"
+Lord Stanley,https://guide.michelin.com/us/en/california/san-francisco/restaurant/lord-stanley,"['Sea Urchin Bottarga with House ‘Old Bay’ on a Seaweed Waffle', 'Grilled Wagyu Beef with Celery Root and Red Wine Jus', '‘Bomb de Blanc’ with Champagne, Coconut and Almond Genoise']"
+Kinjo,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kinjo,
+Sorrel,https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel,"['Acquerello Carnaroli risotto,sweetbreads, bone marrow ,matsutake and sudachi', 'Squab, Asian pear, sunchoke, star anise and cranberry', 'Buckwheat, sorghum, Marcona almond and olive oil jam']"
+Gary Danko,https://guide.michelin.com/us/en/california/san-francisco/restaurant/gary-danko,"['Risotto with summer vegetables and Dungeness crab', 'Juniper crusted bison with king trumpet mushrooms and cipollini mushrooms', 'Strawberry Souffle']"
+Bar Crenn,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bar-crenn,"['Oysters, recipe from Guy Savoy', 'Salmon and potato,an iconic dish from the Troigrois family Chef Pierre Troigrois', 'Apple tart, a creation of pastry chef and business partner, Juan Contreras']"
+Spruce,https://guide.michelin.com/us/en/california/san-francisco/restaurant/spruce,"['Oval-shaped ravioli or pancione filled with house made ricotta cheese', 'A roulade of guinea hen breast and sausage made of dark leg meat, duck meat, and pork is tightly rolled with the hen’s skin and roasted', 'Crème fraîche cheesecake']"
+Wako,https://guide.michelin.com/us/en/california/san-francisco/restaurant/wako,"['Appetizer assortment', 'Nigiri', 'Their iteration of tiramisu']"
+Madcap,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madcap,"['New Caledonia shrimp with cucumber and watermelon juice', 'Sonoma duck breast with stone fruit and butterbean puree', 'Caramel pot de creme with almond streusel and ""river rock""']"
+Aubergine,https://guide.michelin.com/us/en/california/monterey/restaurant/aubergine,"['Artichoke tart with white anchovy, honeycomb, mint', 'Ribeye with kohlrabi, sunflower miso', 'Chocolate brownie with marshmallow fluff and cocoa nibs']"
+Kenzo,https://guide.michelin.com/us/en/california/san-francisco/restaurant/kenzo,"['Chiba golden eye snapper owan', 'Satsuma wagyu tenderloin kuwayaki', 'Brown sugar panna cotta']"
+La Toque,https://guide.michelin.com/us/en/california/san-francisco/restaurant/la-toque,"['Beef loin carpaccio', 'Braised squid with dates', 'Butter crunch cake']"
+Bouchon,https://guide.michelin.com/us/en/california/san-francisco/restaurant/bouchon,"['Pâté de Campagne', 'Gigot d’Agneau', 'Profiteroles']"
+Auberge du Soleil,https://guide.michelin.com/us/en/california/san-francisco/restaurant/auberge-du-soleil,"['White corn soup with tarragon creme fraiche', 'King salmon with eggplant caponata', 'Local figs with lemon gelee']"
+Farmhouse Inn & Restaurant,https://guide.michelin.com/us/en/california/san-francisco/restaurant/farmhouse-inn-restaurant,"['Kanpachi', 'Antelope with huckleberry sauce', 'Chocolate souffle']"
+The Kitchen,https://guide.michelin.com/us/en/california/us-sacramento/restaurant/the-kitchen559371,"['Santa Barbara spot prawns with asparagus, fennel, and wild onion', 'Butter-poached tenderloin with green garlic ""cigare""', 'Lemon meringue ""pie"" with mandarinquat marmalade and thyme chantilly']"
+Madrona Manor,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madrona-manor,"['Hokkaido scallop crudo', 'King salmon', 'Passion fruit roulade']"
+Harbor House,https://guide.michelin.com/us/en/california/san-francisco/restaurant/harbor-house,"['Red abalone roasted in kelp with fermented lettuce', 'Veal smoked over cypress with mushroom jus', 'Seaweed ice cream with battera kombu']"
+Shin Sushi,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shin-sushi,"['Sazae no tsuboyaki, Japanese conch grilled in its shell plus accompanying dashi', ""Chef's choice of seasonal fish for sashimi and nigiri"", 'Fruit or mochi']"
+Rustic Canyon,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/rustic-canyon,"['English peas with white chocolate and macadamia', 'Autonomy Farms chicken with hot honey and california pecans', 'Buttermilk ice cream with oats and Pudwill’s blueberry']"
+Dialogue,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/dialogue,
+Kato,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kato,"['Tapioca fritter with brown butter and soy topped with Santa Barbara uni', 'Trout in every way, lightly poached in olive oil in a sauce of black vinegar and garnished with crispy skin', 'A take on boba made with boniato yam cheese foam and brown butter sable']"
+CUT,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/cut559418,"['Butter lettuce salad', 'Tasting of New York sirloin', 'Basque cheesecake']"
+Nozawa Bar,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/nozawa-bar,"['Maine lobster nigiri, a tender knob of lobster brushed with soy sauce', 'Yamaimo ume shiso handroll, mountain yam combined with ultra-tart ume and a shiso leaf', 'Tamago']"
+Shunji,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shunji,"['Sweet and savory tomato tofu', 'Halibut nigiri with yuzu zest', 'House made toasted tea ice cream']"
+Maude,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/maude,"['Bagna cauda of butter and cream, anchovies warmed radishes, turnip, purple carrot, and purple cauliflower', 'Tajarin tossed in rich butter and cream garnished with breasola and fried sage leaf', 'Housemade hot chocolate with toasted Fernet Branca marshmallow served with cookies']"
+Mori Sushi,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/mori-sushi,"['Homemade tofu', 'Nigiri', 'Buckwheat ice cream']"
+Trois Mec,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/trois-mec,
+Osteria Mozza,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/osteria-mozza,"['Tender grilled octopus with potato, chives, celery, green onion and lemon', 'Crispy duck leg with pear mostarda and sautéed Brussels sprouts', 'Bombolini with berry compote and lemon mascarpone']"
+Kali,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kali,"['Black barley risotto with wheatgrass oil, fermented black garlic, and Fiscalini cheese crisp', 'Duck Breast with sweet corn polenta, roasted fig, and Brussels sprouts', 'Meringue gelato with candied egg yolk shavings']"
+Le Comptoir,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/le-comptoir,"['Poached egg, seasonal greens from our garden, brown butter, lemon, chives, sourdough bread', 'Asparagus, corn, hon shimeji, apples, savory broth, almonds', 'Donut hole, preserved fruit from the kitchen garden, crème chantilly, chocolate']"
+Q Sushi,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/q-sushi,"['Soy cured lean tuna topped with a miso-pasteurized egg vinaigrette', 'Amberjack, onion, soy fresh chives and assorted nigiri', 'Fruit platter']"
+Shibumi,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shibumi559644,"['House-made silken tofu with ikura', 'Pork feet and ramen', 'Rice and pickles']"
+Hayato,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/hayato,"['Panko fried matsutake mushrooms with sudachi', 'Kinmedai meshi, a family style dish of grilled big eye snapper and top quality sushi rice with mitsuba and pickles', 'Fresh persimmons and cold Asian pears in sake gelee']"
+Bistro Na's,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/bistro-na-s,"['Baked golden Dungeness crab with pumpkin', ""Na's spicy chicken"", 'Sweet pea pastry']"
+Orsa & Winston,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/orsa-winston,"['Roasted and stuffed quail, nukazuke,carrot cream, tehachapi grain, morels', 'Satsuki porridge with parmesan cream and uni', 'Sfogliatina alla panna and sudachi cream']"
+Taco María,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/taco-maria,"['Taco de bacalao', 'Mole de cacahuate', 'Atole de cafe']"
+Hana re,https://guide.michelin.com/us/en/california/us-costa-mesa/restaurant/hana-re,"['Shirako with cauliflower', 'Yellowtail nigiri', 'Almond panna cotta']"
+Addison,https://guide.michelin.com/us/en/california/us-san-diego/restaurant/addison,"['""Chips and dip"": potato croustillants with saffron-lemon crémeux', 'Butter-poached Arctic char with with watercress crust, sauce vin jaune, and mushrooms', 'Lemon and lavender posset with lemon zest and lavender blossoms']"
+Parachute,https://guide.michelin.com/us/en/illinois/chicago/restaurant/parachute,"['Clams with chili butter and Chinese sausage', 'Cuttlefish with gochujang and crispy rice', 'Ginseng panna cotta']"
+Goosefoot,https://guide.michelin.com/us/en/illinois/chicago/restaurant/goosefoot,"['Diver scallop with lemongrass, coconut, and lobster', 'Angus beef, heirloom squash, aigre-doux, and beurre noisette', 'Pine bud custard, gooseberry, and pine preserved fig']"
+Elizabeth,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elizabeth,"['Fresh cheese with sorrel mushroom purée, pea shoots, and elderflower', 'Turbot with beurre monté and white asparagus', 'Matsutake ice cream waffles with maple syrup and plum']"
+EL Ideas,https://guide.michelin.com/us/en/illinois/chicago/restaurant/el-ideas,"['A twist on French fries and ice cream', 'Oxtail tortellini', 'Coconut flan with blood orange butterscotch']"
+Band of Bohemia,https://guide.michelin.com/us/en/illinois/chicago/restaurant/band-of-bohemia,
+Schwa,https://guide.michelin.com/us/en/illinois/chicago/restaurant/schwa,"['Sweet potato tortellini with ham consommé and pecan bubbles', 'Scandinavian pancake orb filled with trout roe, crème fraiche with carbonated berries, freeze dried mandarin orange and tarragon', 'Parsnip pound cake with shiso ice cream, raspberry purée and freeze dried raspberries with white chocolate crumbles and freeze dried meringue']"
+Temporis,https://guide.michelin.com/us/en/illinois/chicago/restaurant/temporis,"['Okinawa sweet potato, Bourbon, lime, and anise hyssop', 'Pheasant with Humboldt Fog cheese, soubise, watercress', 'Lemongrass, crispy masago arare, yuzu, shiso']"
+Entente,https://guide.michelin.com/us/en/illinois/chicago/restaurant/entente,"['Cured fluke with passion fruit granita', ""Monkfish with Benton's bacon broth"", 'Mango panna cotta']"
+Elske,https://guide.michelin.com/us/en/illinois/chicago/restaurant/elske,"['Duck liver tart', 'Grilled leg of venison', 'Blueberries with coffee']"
+Dusek's (Board & Beer),https://guide.michelin.com/us/en/illinois/chicago/restaurant/dusek-s-board-beer,
+Roister,https://guide.michelin.com/us/en/illinois/chicago/restaurant/roister,
+Boka,https://guide.michelin.com/us/en/illinois/chicago/restaurant/boka,"['Ricotta dumpling with broccoli, goat gouda, fried garlic', 'Short rib with broccoli, beef tongue, and beets', 'Hazelnut chocolate mousse with coffee praline and toasted milk']"
+Blackbird,https://guide.michelin.com/us/en/illinois/chicago/restaurant/blackbird,
+Sepia,https://guide.michelin.com/us/en/illinois/chicago/restaurant/sepia,"['Apple and celery root soup, almonds, brown butter, lobster beignet', 'Berkshire pork tenderloin and belly, endive, potato, cider, smoke', 'Funnel cake, peaches, plums, pine nuts, umeboshi, sweet corn ice cream']"
+North Pond,https://guide.michelin.com/us/en/illinois/chicago/restaurant/north-pond,"['Pretzel-crusted sea scallop with pretzel spaetzle, poached pears, red cabbage, and smoked pecan butter', 'Fluke with Meyer lemon-hazelnut romesco, fennel candy, and cipollini onions', 'Carrot cake pudding, carrot-citrus sorbet, spiced pecans, and beet-berry emulsion']"
+Everest,https://guide.michelin.com/us/en/illinois/chicago/restaurant/everest,
+Topolobampo,https://guide.michelin.com/us/en/illinois/chicago/restaurant/topolobampo,"['Ceviche seco', 'Wagyu short rib in ancho broth', 'Rajas con crema']"
+Spiaggia,https://guide.michelin.com/us/en/illinois/chicago/restaurant/spiaggia,"['Tortellini in brodo', 'Porchetta with salsa verde and asparagus tips', 'Rhurbarb cheesecake with strawberries']"
+Monte,https://guide.michelin.com/hr/en/istria/rovinj/restaurant/monte,"['Omega 3- three preparations of Northern Adriatic fish', 'Suckling pig, lentils, yellow cabbage, pork rind', 'Apple & Rose- rose ice cream, apple mousse, candied rose petals']"
+Draga di Lovrana,https://guide.michelin.com/hr/en/primorje-gorski-kotar/lovran/restaurant/draga-di-lovrana,"['Boškarin (indigenous breed of Istrian cattle), local type of pasta, beef tail, truffles, pear', 'Lamb back straps, polenta, eggplant, pine nuts, garlic', 'Baked apple terrine, hazelnut praline paste, vanilla bourbon cream, candied biscuit, chocolate with spices']"
+Noel,https://guide.michelin.com/hr/en/zagreb-region/zagreb/restaurant/noel,"['Zagorski Štrukli with Istrian truffles', 'Wild fish, young beans, yuzu, beurre blanc', 'Apple, rosemary, passion fruit']"
+Pelegrini,https://guide.michelin.com/hr/en/sibenik-knin/sibenik/restaurant/pelegrini,"['Carrot mussels and sausage', 'Chicken tingul', 'Fig and ricotta']"
+360º,https://guide.michelin.com/hr/en/dubrovnik-neretva/dubrovnik/restaurant/360%C2%BA,"['Two textures of scallops and turnip: turnip creamy base with slightly seared scallops, sour turnip disc and marinated scallops carpaccio in lime juice, crunchy quinoa chips and thick onion soup', 'Pan seared duck breast, soy sauce glaze, Jerusalem artichoke purée, sour onion filled with duck confit, croutons and anchovies foam', 'Milky chocolate velouté base, Kadaif filled with cooked pear in timut pepper and vanilla, Tonka cream, homemade vanilla and oat ice cream']"
+Field,https://guide.michelin.com/cz/en/prague/praha/restaurant/field,"['Goose liver, wine spirit, cherry and pistachio', 'Pike perch with kohlrabi, horseradish and quinoa', 'Sea buckthorn, juniper, bergamot and beze']"
+La Degustation Bohême Bourgeoise,https://guide.michelin.com/cz/en/prague/praha/restaurant/la-degustation-boheme-bourgeoise,"['Beef tartare with bread chips', 'Dumpling with white cabbage and rabbit', 'Brioche with honey and cinnamon']"
+Gastromé,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/gastrome,"['Langoustine with cauliflower and brown butter', 'Pork belly with cabbage, walnut and honey', 'Chocolate and mocca']"
+Domestic,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/domestic,"['Lobster with cucumber and pumpkin vinegar', 'Aged pork neck with onions and herbs', 'Buttermilk ice cream with pine and gooseberries']"
+Substans,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/substans,
+Frederikshøj,https://guide.michelin.com/dk/en/central-denmark/aarhus/restaurant/frederikshoj,"['Lobster with tomato and lovage', 'Flank of rib-eye, carrots and bone marrow', ""Cherries 'à la WH'""]"
+Me‚Mu,https://guide.michelin.com/dk/en/vejle/restaurant/me%E2%80%9Amu,
+Ti Trin Ned,https://guide.michelin.com/dk/en/southern-denmark/fredericia/restaurant/ti-trin-ned,"['Seasonal vegetables with herb broth', 'Pork from Ladegaard with stuffed morels', 'Blackcurrant leaf sorbet with yoghurt and mint oil']"
+Slotskøkkenet,https://guide.michelin.com/dk/en/zealand/horve/restaurant/slotskokkenet,"[""Today's harvest with oysters and sea pearls"", 'Grilled asparagus with wild plants from the garden and sorrel emulsion', ""'The Marsh' bog oak ice cream with parsnip and chocolate""]"
+Søllerød Kro,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/sollerod-kro,"['Caviar, oyster and caramelised cream', 'Pigeon with morels, roses and blackcurrant', 'Pistachio, thyme and hay milk']"
+Jordnær,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/jordnaer,"['Langoustine, tomato with olive oil', 'Norwegian king crab, mussels, tarragon', '""Baba au Rhum""']"
+Relæ,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/relae,
+Kiin Kiin,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kiin-kiin,"['Tom Yam soup, lobster and galangal', 'Braised pork with five spiced shiitake consommé', 'Lemon foam and Thai basil']"
+formel B,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/formel-b,"['Steamed cod with pistachio, mint and courgettes', 'Roasted mallard with grilled yellow beet and duck sauce', 'Myrica sorbet with crispy apples, frozen kefir cream']"
+Kokkeriet,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kokkeriet,"['Langoustine, turnip and apple', 'Quail, onion and thyme', 'Blackcurrant, rosehip and tarragon']"
+Clou,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/clou,
+Marchal,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/marchal,"['Brown crab tart with kohlrabi', 'Pigeon in puff pastry and blackcurrant sauce', 'Apple cake with vanilla sour cream']"
+Kong Hans Kælder,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/kong-hans-kaelder,"['Roasted turbot with spinach & red wine sauce', 'Monkfish Wellington with artichoke & blanquette sauce', ""Dessert trolley 'à la Kong Hans'""]"
+Stud!o at The Standard,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/stud-o-at-the-standard,
+108,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/108,
+Era Ora,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/era-ora,
+Alouette,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/alouette,"['Turbot, bone sauce, lemon skin oil', 'Aged Danish dairy cow, nasturtium, black garlic', 'Young pine, strawberries every way']"
+Frederiksminde,https://guide.michelin.com/dk/en/zealand/praesto/restaurant/frederiksminde,"['Kohlrabi with gammel knas cheese, sesame, and sour cream', 'Dehydrated white cabbage with caviar and hazelnut oil', ""Sorrel sorbet with sheep's milk yoghurt and woodruff oil""]"
+Kadeau Bornholm,https://guide.michelin.com/dk/en/capital-region/pedersker/restaurant/kadeau-bornholm,"['Crispy potatoes with peas, blackcurrant and sauerkraut', 'Hot and cold smoked salmon with caramelised whey and roses', ""Goat's milk ice cream and with salted caramel and honey""]"
+Ask,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ask,
+Grön,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/gron,"['Flatbread topped with smoked beef bone marrow', 'Pike-perch with summer cabbage, ramson leaves and beurre blanc', 'Pine bark ice cream with blueberries and pine syrup']"
+Demo,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/demo,"['Veal sweetbread with ceps and sauce espagnole', 'Pan-fried sturgeon, roasted cauliflower and caviar', 'Blueberry tartlet with fromage blanc ice cream']"
+Olo,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/olo,"['Goose liver with beetroot, raspberry and blueberry', 'Saddle of lamb with forest mushrooms and aromatic broth', 'Sourdough pancake glazed with honey and fresh berries']"
+Palace,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/palace,"['Palace reserve caviar with Lappish potato and kombu butter', 'Dover sole with river crayfish and flowering dill', 'Bilberries with pine and cream']"
+Ora,https://guide.michelin.com/fi/en/uusimaa/helsingfors-helsinki/restaurant/ora,"['Wild whitefish with currants and apple', 'Dry-aged beef with cabbage and a miso sauce', 'Anise hyssop with raspberries']"
+Botrini's,https://guide.michelin.com/gr/en/attica/athina/restaurant/botrini-s,"['As ""Carbonara"" from land and sea', '""The Corfu Bourdeto that would like to become Cacciuco alla Livornese""', '""The Last Temptation""']"
+Varoulko Seaside,https://guide.michelin.com/gr/en/attica/athina/restaurant/varoulko-seaside,"['Red mullet tartare with Florina pepper, raisins and bottarga powder', 'Grouper with beets, broccolini, black garlic and béarnaise sauce', 'Cherry ganache with pistachio mousse, hibiscus and kaimaki sorbet']"
+Hytra,https://guide.michelin.com/gr/en/attica/athina/restaurant/hytra,"['Crayfish with wild garlic cream, crab sauce and basil', 'Milk-fed lamb with vine leaves, pistachio nuts and yoghurt', 'Apple with cashew biscuit and caramel ice cream']"
+Loaf On,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/loaf-on,
+Lei Garden (Kwun Tong),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lei-garden-kwun-tong,
+Tim Ho Wan (Sham Shui Po),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tim-ho-wan-sham-shui-po,
+Lei Garden (Mong Kok),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lei-garden-mong-kok,
+Ming Court,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ming-court,
+Yat Tung Heen (Jordan),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yat-tung-heen-jordan,
+Fu Ho (Tsim Sha Tsui),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/fu-ho-tsim-sha-tsui,
+Shang Palace,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/shang-palace,
+IM Teppanyaki & Wine,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/im-teppanyaki-wine,
+Ah Yat Harbour View (Tsim Sha Tsui),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ah-yat-harbour-view-tsim-sha-tsui,
+Rech,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/rech,
+Spring Moon,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/spring-moon,
+Imperial Treasure Fine Chinese Cuisine,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/imperial-treasure-fine-chinese-cuisine,
+Sushi Tokami,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-tokami,
+Tosca,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tosca352519,
+Épure,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/epure,
+Yee Tung Heen,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yee-tung-heen,
+Yè Shanghai (Tsim Sha Tsui),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ye-shanghai-tsim-sha-tsui,
+Ho Hung Kee,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ho-hung-kee,
+Jardin de Jade (Wan Chai),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/jardin-de-jade-wan-chai,
+Zhejiang Heen,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/zhejiang-heen,
+Takumi by Daisuke Mori,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/takumi-by-daisuke-mori,
+Kam's Roast Goose,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kam-s-roast-goose,
+Pang's Kitchen,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/pang-s-kitchen,
+Xin Rong Ji,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/xin-rong-ji,
+Qi (Wan Chai),https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/qi-wan-chai,
+Man Wah,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/man-wah,
+Summer Palace,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/summer-palace,
+Octavium,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/octavium,
+Arbor,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/arbor,
+VEA,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/vea,
+Mandarin Grill + Bar,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/mandarin-grill-bar,
+Yat Lok,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yat-lok,
+Guo Fu Lou,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/guo-fu-lou567828,
+Celebrity Cuisine,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/celebrity-cuisine,
+Sushi Wadatsumi,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-wadatsumi,
+Arcane,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/arcane,
+Duddell's,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/duddell-s,
+Beefbar,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/beefbar,
+New Punjab Club,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/new-punjab-club,
+Kaiseki Den by Saotome,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kaiseki-den-by-saotome,
+Belon,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/belon,
+Tate,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/tate,
+The Ocean,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/the-ocean,
+Costes Downtown,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes-downtown,"['Marinated char with plums', ""Mangalica chops 'Vadas' with root vegetables"", 'Abade de Priscos pudding with wild berries']"
+Borkonyha Winekitchen,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/borkonyha-winekitchen,"['Duck liver with beetroot and cherry', 'Mangalica pork with soured salad and onion', 'Rákóczi Túrós - cottage cheese cake with meringue']"
+Stand,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/stand,"['Sterlet sturgeon with clam sauce and cucumber', 'Bereg chicken with pomme purée and salad', 'Somlói sponge cake']"
+Babel,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/babel,"['Octopus with paprika, bacon, milk cracker and vegetables', 'Lamb neck with homemade lavender cheese and whey', 'Tomato with elderflower, rhubarb and yoghurt aero']"
+Costes,https://guide.michelin.com/hu/en/central-hungary/budapest/restaurant/costes,"['Derelye pasta with pumpkin and sage', 'Mangalica with celeriac and chard', 'Honey, milk and chamomile']"
+The Kitchen,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-kitchen417810,
+Tim's Kitchen,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/tim-s-kitchen,
+Wing Lei,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/wing-lei,
+King,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/king380226,
+Ying,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/ying,
+Shinji by Kanesaka,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/shinji-by-kanesaka,
+The Golden Peacock,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-golden-peacock,
+Zi Yat Heen,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/zi-yat-heen,
+8 1/2 Otto e Mezzo - Bombana,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/8-1-2-otto-e-mezzo-bombana,
+Pearl Dragon,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/pearl-dragon,
+Lai Heen,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/lai-heen,
+FAGN,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/fagn,"['Scallops with dashi', '""Potato acting like pasta""', 'Meadowsweet ice cream, ants and caramel']"
+Credo,https://guide.michelin.com/no/en/trondelag/trondheim/restaurant/credo,"['Scallop from Hitra, radishes and clementine', 'Langoustine from Trondheim fjord', 'Whey sorbet with apples from Klakken and rhubarb root oil']"
+RE-NAA,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/re-naa,"['Squid, seaweed butter, salted lemon and black garlic', 'Dry-aged quail from Tau, young beetroot and salted cherries', 'Toasted barley ice cream, almond and candied pine cone']"
+Sabi Omakase,https://guide.michelin.com/no/en/rogaland/stavanger/restaurant/sabi-omakase,"['Oyster with keta', 'Char nigiri', 'Melon with yuzu']"
+Galt,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/galt,
+Kontrast,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/kontrast,"['Scallop with unripe plums, elderflower and saffron sauce', 'Organic duck with rose hip purée and ragu', 'Honey from Gamle Aker with milk and tagetes']"
+Statholdergaarden,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/statholdergaarden,"['Scallop, barley, beetroot and dill', 'Veal, mushroom, Jerusalem artichoke, carrot shallot sauce', 'Raspberry, mascarpone, hazelnut']"
+Del Posto,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/del-posto,
+Le Grill de Joël Robuchon,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-grill-de-joel-robuchon,
+L'Appart,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-appart,"['Wagyu tartare', 'Seared Saint Pierre fish', 'Amaretto panna cotta']"
+Okuda,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/okuda,
+Wallsé,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/wallse,"['Mushroom goulash with semolina dumpling', 'Weiner schnitzel potato and cucumber salad and lingonberries', 'Linzertorte with raspberries and vanilla ice cream']"
+Jeju Noodle Bar,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jeju-noodle-bar,"['Jeju neng guk', 'Wagyu ramyun', 'Toro ssam bap']"
+Sushi Nakazawa,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa,"['Soy marinated king salmon', 'Massachusetts sea scallop nigiri with citrus and salt', 'Egg custard']"
+Kosaka,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kosaka,"['Sashimi', 'Mackerel nigiri with ginger and scallion', 'Firefly squid nigiri with sweet miso and tosazu jelly']"
+Bâtard,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/batard,"['Caramelle with mushroom farci and asparagus', 'Artic char with artichoke hearts and bechamel', 'English pea parfait with rhubarb consommé']"
+Hirohisa,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hirohisa,"['Winter vegetable crab gravy', 'White Peking duck breast', 'Fruit or mochi ice cream']"
+Blue Hill,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blue-hill,"['Murasaki sweet potato with hazelnuts and sake lees', 'Grass fed lamb with fermented oats and horseradish', 'Noreens sprouted oats with white chocolate and beer ice cream']"
+ZZ's Clam Bar,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zz-s-clam-bar,"['Uni toast', 'Nantucket bay scallops with Sicilian pistachio', 'Chianina beef carpaccio']"
+Babbo,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/babbo,
+Carbone,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/carbone,"['Spicy rigatoni a la vodka', 'Chicken scarpariello', 'Carrot cake']"
+Le Coucou,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-coucou,"['Quenelle de brochet', 'Tout le lapin', 'Crepe souffle au citron']"
+Aldea,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aldea,
+Cote,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cote,"['Banchan, chayote pickles with jalapeno and crisp cauliflower pickles with garlic stems', 'BBQ, the butcher’s feast consisting of the hangar steak, dry aged ribeye, flat iron, and marinated kalbi', 'Cup filled with velvety vanilla soft serve and soy caramel']"
+Bouley at Home,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bouley-at-home,
+Gotham Bar and Grill,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gotham-bar-and-grill,
+Nix,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nix,
+Junoon,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/junoon,
+NoMad,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nomad,
+The Musket Room,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-musket-room,"['Uni toast with poached shrimp and Calabrian chili and mint', ""Quail with za'atar, tahini and fennel"", 'Osmanthus panna cotta and white peach granita']"
+Uncle Boons,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/uncle-boons,
+Noda,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noda,"['Sakuradai soup with charred scallions, dehydrated cherry leaf', 'Sea perch, sake dashi, micro scallion, sancho green pepper leaves, a thin slice of turnip, a strip of red pepper', 'A terrine of white and red grapes, grape gelée and ice cream sweetened with wasanbon']"
+Gramercy Tavern,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gramercy-tavern,"['Beef tartare of hand cut prime raw beef served with sliced radish and pear, black and white sesame seeds', 'Sea bass fillet over wilted tatsoi leaves, and blanched cauliflower', 'Creamy, tangy cheesecake with a soft cookie crust']"
+The Clocktower,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-clocktower,"['Hudson Valley foie gras a la Toad pudding, caramelized onion, green cabbage sauce', 'Heritage Farms pork tenderloin with braised cabbage, bacon, roasted shallot, plus bubble and squeak', 'Christmas pudding brandy caramel, eggnog ice cream']"
+Ai Fiori,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ai-fiori,"['Trofie nero', 'Roasted lamb saddle', 'Paris-brest']"
+Casa Mono,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-mono,"['Croquetas, made with either bacalao or cheese and squash and served with homemade aïoli', 'Goat confit with scallion ash, avocado, queso and pistachio', 'Chocolate con galleta de Avellana']"
+Jewel Bako,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jewel-bako,
+The River Café,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-river-cafe,"['Asparagus tortelloni with morels', 'Colorado rack of lamb with Sicilian pistachio pesto', 'Chestnut souffle']"
+Bar Uchū,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bar-uchu,
+Café China,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-china,"['Szechuan cold noodles with peanut', 'Spicy cumin lamb with chili peppers, onion and cilantro', 'Mooncakes with mung bean, red bean, lotus seed and pineapple fillings']"
+Kanoyama,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kanoyama,"['Mackerel served under glass dome, smoked with cherry wood', 'Scallop nigiri topped with Icelandic salt', 'A sweet rectangle of cake-like tamago']"
+Contra,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/contra,"['Tofu with maple syrup', 'Skate with succulents and blueberries', 'Meyer lemon with cashew and sweet milk']"
+Atomix,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atomix,"['Guk, firefly squid, squid soup, fermented chickpeas', 'Jjim, king crab, miyeok sauce, spinach, green pepper oil', 'Husik, sikhye ice cream, jochung, onion foam']"
+Kyo Ya,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kyo-ya,
+Kajitsu,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kajitsu,"['Fried mochi with grated daikon and mushroom dashi', 'Noodle rice with cabbage, yuba, and mushroom', 'Tsubaki mochi with sweet bean filling']"
+Agern,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/agern,
+Caviar Russe,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/caviar-russe,"['Caviar service with blini, smoked salmon, and fraiche', 'Bluefin tuna with melon, Iberico ham, and burrata', 'Chocolate clafoutis with cherries and ricotta']"
+Tuome,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tuome,"['Chicken liver with maple syrup, toasted milk bread, pepitas and crispy chicken skin', 'Octopus with pommes aligot', 'Trio of chinese beignets filled with apple jam and accompanied by vanilla ice cream laced with red bean paste']"
+Tempura Matsui,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tempura-matsui,"['Marinated japanese eggplant with spinach and chrysanthemum', 'Fried shrimp with sweet soy sauce', 'Grapefruit with wine jelly and whisky cream']"
+Sushi Yasuda,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-yasuda,"['Salmon in bonito broth with charred scallions', 'White king salmon nigiri', ""Chef's selection of fresh fruit, green tea""]"
+Sushi Amane,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-amane,"['Hairy crab with Japanese black vinegar', 'Kohada nigiri', 'Tamago']"
+Café Boulud,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-boulud,
+Claro,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/claro,"['Tostada de tuna with pasilla oaxaqueno with cara cara and chicharron', 'Mole chilhuacle with braised rabbit leg served with kohlrabi and peanuts', 'Molotes de platano with crema and queso fresco with catskill honey']"
+Satsuki,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/satsuki,
+Sushi Noz,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-noz,"['Norwegian crab nigiri', 'Fatty tuna collar nigiri', 'Egg yolk and anchovy hand roll']"
+Sushi Inoue,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-inoue,
+Meadowsweet,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/meadowsweet,"['Seared bay scallops,parsnip, savoy cabbage, black trumpets, vanilla and Meyer lemon', 'Chitarra pasta al nero and Maine lobster, chile, green onion, lemon and fine herbs', 'Flourless chocolate cake, caramel ice cream, cocoa crunch and almond brittle']"
+Casa Enríque,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique,"['Lime cured market fish ceviche', 'Mole de piaxtla', 'Tres leches cake']"
+Peter Luger,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/peter-luger,"['Jumbo shrimp cocktail', 'Lamb chops or beef T-bone steak', 'New York-style cheesecake']"
+Oxomoco,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/oxomoco,"['Charred carrot tamal, green garlic and hoja santa mole', 'Tlayuda Oxomoco with lardo, house string cheese, refried beans, salsa de pipicha', 'Raspberry tres leches cake']"
+The Finch,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-finch,
+Faro,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/faro,
+Senses,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/senses,
+atelier Amaro,https://guide.michelin.com/pl/en/masovia/warszawa/restaurant/atelier-amaro,"['Caviar, hazelnuts and elderflower', 'Lamb with ramsons and nettle', 'Meadowsweet with sorrel and milk']"
+Aniar,https://guide.michelin.com/ie/en/galway/gaillimh-galway/restaurant/aniar,"['Celeriac, ramson and whey', 'Mallard, pear and elderberry', ""Sheep's yoghurt, blackberry and woodruff""]"
+Loam,https://guide.michelin.com/ie/en/galway/gaillimh-galway/restaurant/loam,"['Pink Fir, cheddar and brisket', 'Venison, apple and beetroot', 'Tomato and fennel']"
+Wild Honey Inn,https://guide.michelin.com/ie/en/clare/lios-duin-bhearna-lisdoonvarna/restaurant/wild-honey-inn,"['Rabbit terrine with leek vinaigrette, hazelnuts, pickles and prune purée', 'Venison en croûte with roasted root vegetables, chanterelles and sauce poivrade', 'Chartreuse soufflé, cassis sorbet and crème anglaise']"
+Chestnut,https://guide.michelin.com/ie/en/cork/ballydehob/restaurant/chestnut,"['Mussels with caviar and dill', 'Lamb with roast aubergine and preserved ramson seed caper sauce', 'Sheep’s yoghurt, clove sorbet and damson purée']"
+Mews,https://guide.michelin.com/ie/en/cork/ie-baltimore/restaurant/mews,
+Ichigo Ichie,https://guide.michelin.com/ie/en/cork/corcaigh-cork/restaurant/ichigo-ichie,"['Pistachio tofu with beetroot miso and apple blossom', 'Thornhill duck, cherry-smoked hay leek, scallion, fig and dried rice', 'Strawberry kakigori with koji milk']"
+Chapter One,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/chapter-one,"['Lasagne of scallop and langoustine with champagne, sorrel and razor clams', 'Turbot with coco de Paimpol, mussels, crab and fermented horseradish cream', 'Seaweed caramel tart with soda bread crunch and preserved un-waxed salted lemon ice cream']"
+Greenhouse,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/greenhouse,"['Hand-dived scallop with horseradish, caviar and cucumber', ""Grouse 'en crepinette', celeriac, blackberry and sauce grand veneur"", 'Chocolate, praline, vinegar and tonka bean']"
+L'Ecrivain,https://guide.michelin.com/ie/en/dublin/city-centre/restaurant/l-ecrivain,
+Campagne,https://guide.michelin.com/ie/en/kilkenny/cill-chainnigh-kilkenny/restaurant/campagne,"[""Terrine of foie gras and pig's trotter with crabapple jelly and caramelised walnuts"", 'Poached turbot, seaweed butter, clams and courgettes', 'Baked cherry pie, cherry ice cream and whipped custard']"
+Heron & Grey,https://guide.michelin.com/ie/en/dun-laoghaire-rathdown/blackrock/restaurant/heron-grey,"['White soy, cep and walnut', 'Anjou pigeon, blackberry and amaranth', 'Pear, black pepper, Grand Cru']"
+Lady Helen,https://guide.michelin.com/ie/en/kilkenny/baile-mhic-andain-thomastown/restaurant/lady-helen,"['Truffle ravioli with parmesan custard and Pedro Ximenez', 'Anjou squab pigeon, smoked almond milk, hen of the woods and roasting juices', 'Piedmont hazelnut with vanilla, passion fruit and chocolate sorbet']"
+House,https://guide.michelin.com/ie/en/waterford/aird-mhor-ardmore/restaurant/house,"['Langoustine tartare with fermented pears, horseradish and grilled alexanders', 'Roast monkfish with carrot sauce, oysters and pickled leek flowers', 'Set cream of compressed apples with caramelised celeriac and spruce tips']"
+Olympe,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/olympe,
+Lasai,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/lasai,"['Abóbora, pinhão, sementes, brócolis e mel', 'Costelinha de porco, cenouras coloridas, cebolas e caldo meloso', 'Milho, manga e limão']"
+Oteque,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/oteque,"['Batata baroa, leite de castanha do Pará, vinagrete de cogumelos e trufas brancas', 'Pargo na brasa com coco, palmito pupunha e leite de coco', 'Sorvete de castanha crua']"
+Mee,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/mee,"['SashiMee', 'Talharim de arroz com camarões, ovos, tofu e amendoim', 'Mousse de chocolate, crocante de gergelim preto, geleia de laranja, esponja de matcha']"
+Cipriani,https://guide.michelin.com/br/en/rio-de-janeiro-region/rio-de-janeiro/restaurant/cipriani,"['Carpaccio de Wagyu, cebolas, pinoli e molho de trufa', 'Pato, laranja e feijão branco', 'Bavaroise de pistache, castanha de caju pralinada e caramelo salgado']"
+Jun Sakamoto,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/jun-sakamoto,"['Sequência de sushis', 'Tartare de atum na geleia de shoyu', 'Sorvete de maçã com gelatina de saquê doce']"
+Maní,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/mani,"['Ceviche de caju com raspadinha de cajuína e cachaça', 'Moqueca do Maní', 'Da lama ao caos']"
+Evvai,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/evvai,"['Polenta Taragna', 'Ciambella de pato', 'Pistachio, pipoca e maçã']"
+Picchi,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/picchi,"['Pici com molho de linguíça calabresa, feijão branco e peperoncino', 'Agnolotti de coelho à caçadora, azeitonas e mangerona', 'Tiramisù Picchi']"
+Kosushi,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kosushi,
+Ryo Gastronomia,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/ryo-gastronomia,"['Sashimi de toro', 'Polvo a vácuo grelhado a carvão com creme de ervilha e azeite pimenta de cheiro', 'Sorvete de mel de Jataí']"
+Tangará Jean-Georges,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/tangara-jean-georges,
+Kinoshita,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kinoshita,"['Mexilhão confitado em gordura de Wagyu e redução de Jerez', 'Atum Bluefin, pó de algas e yuzu crème fraîche', 'Entremet de chocolates e castanhas']"
+Kan Suke,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/kan-suke,"['Sushi toro', 'Pargo com cogumelos', 'Pudim de leite']"
+Huto,https://guide.michelin.com/br/en/sao-paulo-region/sao-paulo/restaurant/huto,"['Lichia recheada com foie gras', 'Flor de ovos', 'Mango com sorvete de lichia']"
+Stay,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/stay,
+Lee Jong Kuk 104,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/lee-jong-kuk-104,
+Hansikgonggan,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/hansikgonggan,
+Dining in Space,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/dining-in-space,
+Exquisine,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/exquisine,
+Dosa,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/dosa511871,
+Joo Ok,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/joo-ok,
+Balwoo Gongyang,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/balwoo-gongyang,
+Muoki,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/muoki,
+L'Amitié,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/l-amitie,
+Yu Yuan,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/yu-yuan,
+Bicena,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/bicena,
+Mosu,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mosu,
+Poom,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/poom,
+Soigné,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/soigne,
+Table for Four,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/table-for-four,
+Zero Complex,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/zero-complex,
+Jin Jin,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/jin-jin,
+Gotgan,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/gotgan,
+Hill Street Tai Hwa Pork Noodle,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/hill-street-tai-hwa-pork-noodle,
+Putien (Kitchener Road),https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/putien-kitchener-road,
+Chef Kang's,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/chef-kang-s,
+Garibaldi,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/garibaldi,
+Summer Pavilion,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/summer-pavilion,
+Shinji (Bras Basah Road),https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shinji-bras-basah-road,
+The Song of India,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/the-song-of-india,
+Lei Garden,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/lei-garden501509,
+Whitegrass,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/whitegrass,
+Jaan,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/jaan,
+Labyrinth,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/labyrinth,
+Cut,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/cut,
+Alma,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/alma,
+Béni,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/beni,
+Crystal Jade Golden Palace,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/crystal-jade-golden-palace,
+Imperial Treasure Fine Teochew Cuisine (Orchard),https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/imperial-treasure-fine-teochew-cuisine-orchard,
+Saint Pierre,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/saint-pierre,
+Sushi Ichi,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/sushi-ichi,
+Sushi Kimura,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/sushi-kimura,
+Iggy's,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/iggy-s,
+Braci,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/braci,
+Jiang-Nan Chun,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/jiang-nan-chun,
+Bacchanalia,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/bacchanalia,
+Shinji (Tanglin Road),https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/shinji-tanglin-road,
+Corner House,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/corner-house,
+Summer Palace,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/summer-palace501658,
+Cheek by Jowl,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/cheek-by-jowl,
+Nouri,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/nouri,
+Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/liao-fan-hong-kong-soya-sauce-chicken-rice-noodle,
+Burnt Ends,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/burnt-ends,
+Rhubarb,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/rhubarb,
+Meta,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/meta,
+Ma Cuisine,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/ma-cuisine,
+Candlenut,https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/candlenut,
+Bhoga,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/bhoga,"['Scallop with gooseberries, marigold and smoked butter', 'Duck with pointed cabbage, chanterelles and lemon verbena', 'Roasted strawberry ice-cream with beach roses and redcurrants']"
+Koka,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/koka,"['Langoustine with courgettes and hazelnuts', 'Hake with mushrooms, chive and miso', 'Raspberries, marigold and corn']"
+28+,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/28,"['Foie gras au torchon with apple sorbet, compressed apple and rosemary', 'Turbot with mushroom, salt baked celeriac and kale', 'Honey ice cream with warm blueberries in rum']"
+SK Mat & Människor,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/sk-mat-manniskor,"['Burnt raw shrimp tart, smoked tomato and dill', 'Reindeer, endive and brown butter jus', 'Whipped white chocolate crème, almond milk sorbet']"
+Thörnströms Kök,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/thornstroms-kok,
+Upper House,https://guide.michelin.com/se/en/vastra-gotaland/goteborg/restaurant/upper-house,
+Agrikultur,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/agrikultur,"['King crab, chestnut crème, pickled turnip, nutmeg, buttered onion bouillon', 'Fallow deer with wild mushrooms and whey', 'Rosehip soup, chaga ice cream, wood-oven-baked almond cake']"
+Sushi Sho,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/sushi-sho,"['Soy-cured egg yolk with dry roasted rice, okra and tuna', 'Pressed Swedish mackerel sushi with shiro kombu', 'Dashi simmered daikon with mustard miso']"
+Volt,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/volt,
+Ekstedt,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/ekstedt,"['Langoustine with caviar and kohlrabi', 'Venison with celeriac and marigold', 'Cep soufflé with woodruff and cherries']"
+Operakällaren,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/operakallaren,"['Mackerel with horseradish, tomato and cucumber', 'Venison fillet with cabbage and blackcurrant', 'Cloudberry soufflé']"
+Mathias Dahlgren-Matbaren,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/mathias-dahlgren-matbaren,
+Aloë,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/aloe,"['Swedish squid with Vietnamese aromatics', 'Ocean perch with green sauce', 'Jerusalem artichoke, pears and miso']"
+PM & Vänner,https://guide.michelin.com/se/en/kronoberg/vaxjo/restaurant/pm-vanner,"[""'Heart from the king of the forest'"", 'Pike-perch from Lake Örken with herbs and flowers', ""'Drifter's skewer'""]"
+Bloom in the Park,https://guide.michelin.com/se/en/skane/malmo/restaurant/bloom-in-the-park,
+SAV,https://guide.michelin.com/se/en/skane/malmo/restaurant/sav,
+Golden Formosa,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/golden-formosa,
+Danny's Steakhouse,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/danny-s-steakhouse,
+L'Atelier de Joël Robuchon,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/l-atelier-de-joel-robuchon550759,
+Kitcho,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/kitcho,
+Tien Hsiang Lo,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tien-hsiang-lo,
+Ya Ge,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ya-ge,
+Da-Wan,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-wan,
+Sushi Nomura,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-nomura,
+logy,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/logy,
+Ming Fu,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ming-fu,
+Ken An Ho,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ken-an-ho,
+Sushi Ryu,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/sushi-ryu,
+MUME,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mume,
+Impromptu by Paul Lee,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/impromptu-by-paul-lee,
+Longtail,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/longtail,
+Mountain and Sea House,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/mountain-and-sea-house,
+Da San Yuan,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/da-san-yuan,
+Tainan Tan Tsu Mien Seafood,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/tainan-tan-tsu-mien-seafood,
+Suan Thip,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/suan-thip,
+Upstairs at Mikkeller,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/upstairs-at-mikkeller,
+Chim by Siam Wisdom,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/chim-by-siam-wisdom,
+R-Haan,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/r-haan,
+Canvas,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/canvas566292,
+Bo.lan,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/bo-lan,
+Sra Bua by Kiin Kiin,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sra-bua-by-kiin-kiin,
+Elements,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/elements,
+Paste,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/paste,
+Ginza Sushi ichi,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/ginza-sushi-ichi,
+Sorn,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/sorn,
+Savelberg,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/savelberg,
+Saneh Jaan,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/saneh-jaan,
+Gaa,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/gaa,
+Methavalai Sorndaeng,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/methavalai-sorndaeng,
+Jay Fai,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai,
+Nahm,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/nahm,
+J'AIME by Jean-Michel Lorain,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/j-aime-by-jean-michel-lorain,
+Saawaan,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/saawaan,
+Le Du,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/le-du,
+Ruean Panya,https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/ruean-panya,
+PRU,https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/pru,
+Blue Duck Tavern,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/blue-duck-tavern,
+Tail Up Goat,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/tail-up-goat,"['Subtly smokey and sweet BBQ Carrots', 'Lamb ribs with a date-molasses jus', 'Oat almond cake']"
+Komi,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/komi,"['Brioche with trout roe', 'Celery root ravioli', 'Strawberry and chocolate tart']"
+Sushi Taro,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/sushi-taro,"['Whole poached shrimp, soy simmered firefly squid, and a sea snail all atop a spread of thick, richly flavored tofu', 'Soft shell crab in a pitch black cloak of batter tinged with squid ink with green tea salt', 'Mochi ice cream and fresh fruit']"
+Plume,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/plume,"['Kohlrabi with chervil pesto and ramp cream', 'Venison', 'Chocolate palet']"
+Siren by RW,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/siren-by-rw,
+Bresca,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/bresca,"['Broccoli pierogi, smoked cipollini, goat gouda,potato, and onion soubise', 'Surf and turf with lobster, squab and sauce Américaine', 'Foie gras cake pop with hazelnut, chocolate, amaretto and gold']"
+The Dabney,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-dabney,"['Braised salsify topped with green apple rectangles and tarragon leaves dotted with fried oysters with a whey sauce', 'Chicken and Dumplings', 'Benne seed ice cream sundae']"
+Métier,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/metier,"['Bigeye tuna and potato nigiri', 'Grilled ribeye of Japanese Kuroge beef', 'Mango-saffron bavarois']"
+Kinship,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/kinship,"['Softshell crab Louie with egg dressing and spiced tomato broth', 'Roast chicken with lemon-garlic panade', 'Warm chocolate souffle cake with buckwheat-miso ice cream']"
+Fiola,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/fiola,"['Porcini flan studded with foie gras and porcini cappuccino', 'Medallions of lamb wrapped in a thin layer of fat and roasted, accompanied by morels and broccolini', 'Zuppa inglese']"
+Masseria,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/masseria,"['Potato ravioli with chicken liver, cipollini, sage and brown butter', 'Bobwhite quail, with Australian winter black truffle, massa frizza, brandy, and gooseberry', 'Torta al cioccolato with tiramisu gelato']"
+Rose's Luxury,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/rose-s-luxury,"['Lychee, pork, peanut and habanero salad', ""Hand shaped farfalle with 'nduja and pecorino"", 'Fernet and cola Tiramisu']"
+Loch Bay,https://guide.michelin.com/gb/en/highland/waternish/restaurant/loch-bay,"['Prawn bisque with crab and Mull cheddar toastie', 'Bourride of hake, scallop and razor clam', 'Bramble and toffee apple tart with Calvados cream']"
+Braidwoods,https://guide.michelin.com/gb/en/north-ayrshire/dalry/restaurant/braidwoods,
+Eipic,https://guide.michelin.com/gb/en/belfast/belfast/restaurant/eipic,"['Brown butter, mushroom, truffle and bacon tartlet', 'Baronscourt Estate venison with pumpkin and spice', 'Blackberry, vanilla and yoghurt soufflé']"
+OX,https://guide.michelin.com/gb/en/belfast/belfast/restaurant/ox399109,"['Smoked Ballywalter veal with shiso, carrot, mustard and walnut', 'Wild Wicklow venison, fig, Earl Grey and cauliflower stem', 'White chocolate, cherry, oats and tagete flowers']"
+The Peat Inn,https://guide.michelin.com/gb/en/fife/peat-inn/restaurant/the-peat-inn,"['Scallop tartare, oyster and caviar dressing', 'Cairngorm roe deer with venison haggis, smoked onion and yoghurt purée', 'Chocolate délice, coffee mousse and whisky ice cream']"
+Kitchin,https://guide.michelin.com/gb/en/city-of-edinburgh/leith/restaurant/kitchin,"['Veal sweetbreads with pearl barley risotto, girolles and truffle', 'Turbot cooked on the bone with squid ink sauce', 'Pumpkin tiramisu with mixed spice ice cream']"
+Martin Wishart,https://guide.michelin.com/gb/en/city-of-edinburgh/leith/restaurant/martin-wishart,"['Ceviche of Gigha halibut with mango and passion fruit', 'Loin of roe deer with black pudding cromesquis, beetroot and long pepper sauce', 'Chocolate crémeux with yoghurt mousse and raspberry sorbet']"
+Number One,https://guide.michelin.com/gb/en/city-of-edinburgh/edinburgh/restaurant/number-one,"['Mackerel with cucumber and ginger', 'Grouse with Lorne sausage, blueberries and ceps', 'Buttermilk with caramel and sea buckthorn']"
+21212,https://guide.michelin.com/gb/en/city-of-edinburgh/edinburgh/restaurant/21212,
+The Cellar,https://guide.michelin.com/gb/en/fife/anstruther/restaurant/the-cellar,"['Ox tongue with parmesan, onion oil and truffle', 'Venison loin and haggis with squash purée and fermented bilberry sauce', 'Crowdie and tonka bean cheesecake mousse']"
+Forest Side,https://guide.michelin.com/gb/en/cumbria/grasmere/restaurant/forest-side,"['Lobster, kohlrabi, spruce and nasturtium', 'Salt-aged duck, leeks, onions and ham', 'Fig, pistachio and yoghurt']"
+HRiSHi,https://guide.michelin.com/gb/en/cumbria/bowness-on-windermere/restaurant/hrishi,"['Scallop ceviche with orange dressing, toasted hazelnuts and caviar', 'Roast loin of venison, spiced dumpling, beetroot tarte Tatin and sloe gin sauce', 'Banana soufflé with cardamom anglaise and vanilla ice cream']"
+Rogan & Co,https://guide.michelin.com/gb/en/cumbria/cartmel/restaurant/rogan-co,"['Terrine of our farm pork with caper jam and pork fat', 'Aged short rib of beef, creamed potato and bone marrow', 'Dark chocolate fondant, mandarin and sea salt']"
+House of Tides,https://guide.michelin.com/gb/en/tyne-and-wear/newcastle-upon-tyne/restaurant/house-of-tides,"['Roast monkfish with caviar, sea purslane and parsley', 'Salt-aged lamb with turnips, spinach and lemon verbena', 'Coconut parfait, white chocolate mousse, mango and passion fruit']"
+Sosban & The Old Butchers,https://guide.michelin.com/gb/en/isle-of-anglesey/menai-bridge-porthaethwy/restaurant/sosban-the-old-butchers,"['Cod crackling with banana, sea blight and peanut', 'Salt marsh lamb, lettuce, shrimp and sheep’s yoghurt', 'Celeriac, buttermilk, apple and sorrel']"
+Northcote,https://guide.michelin.com/gb/en/lancashire/langho/restaurant/northcote,"[""Chilled Isle of Wight tomatoes, 'Pan-con tomate', basil"", 'Yorkshire chicken, curried pearls, pomegranate, almond and coriander', 'Chocolate, hazelnut and lime']"
+Yorke Arms,https://guide.michelin.com/gb/en/north-yorkshire/pateley-bridge/restaurant/yorke-arms,
+Fraiche,https://guide.michelin.com/gb/en/merseyside/birkenhead/restaurant/fraiche,"['7-year aged rice with beetroot and teriyaki eel', 'Squab with turnip and cocoa spiced crust', 'Brown butter ice cream with roast apple, rosemary and blackcurrant leaf oil']"
+White Swan,https://guide.michelin.com/gb/en/lancashire/fence/restaurant/white-swan,"['Native lobster, tomatoes, confit fennel, Espelette pepper and garden herbs', 'Suckling pig with cauliflower cream, girolles, gooseberries and smoked bacon', 'Chocolate soufflé with banana ripple ice cream, tonka bean and peanut']"
+Tyddyn Llan,https://guide.michelin.com/gb/en/denbighshire/llandrillo/restaurant/tyddyn-llan,
+Ynyshir,https://guide.michelin.com/gb/en/ceredigion/machynlleth/restaurant/ynyshir,"['Raw lobster and nahm jim', 'Welsh Wagyu rib with shiitake and seaweed', 'Tiramisu']"
+Black Swan,https://guide.michelin.com/gb/en/north-yorkshire/oldstead/restaurant/black-swan,"['Brill with razor clams and fermented turnip', 'Mallard with crapaudine beetroot', 'Damson brandy treacle tart']"
+Simon Radley at Chester Grosvenor,https://guide.michelin.com/gb/en/cheshire-west-and-chester/chester/restaurant/simon-radley-at-chester-grosvenor,"['Diver scallop, stuffed pig’s foot, hocks, chicory, mustard and blonde beer', 'Merrifield duck, ragout, lentil and honeycomb', 'Bramble milk pudding with textures of rice, pickled blackberry and lemon verbena']"
+Star Inn at Harome,https://guide.michelin.com/gb/en/north-yorkshire/harome/restaurant/star-inn-at-harome,"['Black pudding and foie gras with Pickering watercress, apple & vanilla chutney and scrumpy reduction', 'Roast turbot with dressed Whitby crab, clams, caviar, champagne and oyster velouté', 'Damson frangipane with bramble ripple ice cream and aged Armagnac custard']"
+The Man Behind The Curtain,https://guide.michelin.com/gb/en/kent/leeds/restaurant/the-man-behind-the-curtain,"['Dali to Delhi', ""'Emancipation'"", 'Passion fruit and praline']"
+The Checkers,https://guide.michelin.com/gb/en/powys/montgomery-trefaldwyn/restaurant/the-checkers,
+Pipe and Glass,https://guide.michelin.com/gb/en/east-riding-of-yorkshire/south-dalton/restaurant/pipe-and-glass,"['Crispy cider braised rabbit rissole with warm cockle and ham hock tartare sauce', ""Yorkshire duck '3 ways', celeriac, parkin crumb and pickled brambles"", 'Ginger burnt cream with poached rhubarb and East Yorkshire sugar cakes']"
+Fischer's at Baslow Hall,https://guide.michelin.com/gb/en/derbyshire/baslow/restaurant/fischer-s-at-baslow-hall,
+Winteringham Fields,https://guide.michelin.com/gb/en/north-lincolnshire/winteringham/restaurant/winteringham-fields,"['Yorkshire Wagyu, pomme purée and shallot crumb', 'Loin and braised belly of Texel lamb with broccoli and yoghurt', 'Brown sugar tart with banana, malt ice cream and rum']"
+Thomas Carr @ The Olive Room,https://guide.michelin.com/gb/en/devon/ilfracombe/restaurant/thomas-carr-the-olive-room,
+Walnut Tree,https://guide.michelin.com/gb/en/monmouthshire/llanddewi-skirrid/restaurant/walnut-tree,"['Scallops with lentil and coriander sauce', 'Turbot with Janssons temptation, shrimps and dill', 'Somloi - Hungarian trifle with walnuts, apricots and rum']"
+Paul Ainsworth at No.6,https://guide.michelin.com/gb/en/cornwall/padstow/restaurant/paul-ainsworth-at-no-6,"['Cod, seaweed quaver and vin jaune beurre blanc', 'Sladesdown farm duck, umeboschi and steamed dumpling', ""'A fairground tale'""]"
+Simpsons,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/simpsons,"['Native lobster with Evesham tomato salad, lovage and tomato tea', 'Squab pigeon with seeds and grains, burnt butter cabbage, damson purée', 'Banana soufflé with salted caramel sauce and banana sorbet']"
+Purnell's,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/purnell-s,"['‘Faux’ black Canary potatoes, chorizo mayonnaise and edible charcoal', 'Looe red mullet with Jerusalem artichoke, crispy chicken wing and brown chicken sauce', 'Caramelised pressed Gala apple terrine, green apple sorbet, vanilla cream and apple blossom']"
+Adam's,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/adam-s,"['Blackened monkfish with turnip, apple, lemon verbena and dashi broth', 'Loin of rabbit, sweetcorn porridge, truffle and tarragon', 'Black Provence fig, pistachio and chocolate']"
+Outlaw's Fish Kitchen,https://guide.michelin.com/gb/en/cornwall/port-isaac/restaurant/outlaw-s-fish-kitchen,"['Cured monkfish with ginger and spring onion dressing', 'Whole John Dory, garlic and lemon', 'Baked cheesecake with poached rhubarb']"
+Carters of Moseley,https://guide.michelin.com/gb/en/west-midlands/birmingham/restaurant/carters-of-moseley,"['Razor clams, Old Winchester, pepper dulse', 'Cornish duck, BBQ', 'PS chocolate, regia walnuts, Cotswold sherry']"
+Peel's,https://guide.michelin.com/gb/en/west-midlands/hampton-in-arden/restaurant/peel-s,"['Lobster, carrots, ginger', 'Wild duck, sausage, brown sauce, mushroom and tarragon', 'Chocolate, sherry and vanilla']"
+John's House,https://guide.michelin.com/gb/en/leicestershire/mountsorrel/restaurant/john-s-house,"['Tom’s potato, chilli, truffle and cheddar', 'Lightly salted fillet of cod with brawn, aubergine, passion fruit and curry', 'Carrot sorbet with yoghurt, liquorice and mint']"
+The Whitebrook,https://guide.michelin.com/gb/en/monmouthshire/whitebrook/restaurant/the-whitebrook,"['Parsnip with salted plum, truffle and wilted greens', 'Middle White suckling pig with pear, celeriac and sorrel', 'Woodruff mousse with hazelnut, nettle, blackberries and quince kombucha']"
+James Sommerin,https://guide.michelin.com/gb/en/the-vale-of-glamorgan/penarth/restaurant/james-sommerin,
+Driftwood,https://guide.michelin.com/gb/en/cornwall/portscatho/restaurant/driftwood,
+The Cross at Kenilworth,https://guide.michelin.com/gb/en/warwickshire/kenilworth/restaurant/the-cross-at-kenilworth,"['Crispy duck egg with white beans, chorizo, tomato butter and parsley', 'Loin of Cornish lamb with grilled onion, alliums, lamb jus, capers and herbs', 'Dark chocolate soufflé, chocolate sauce and Chantilly cream']"
+Masons Arms,https://guide.michelin.com/gb/en/devon/knowstone/restaurant/masons-arms,"['Roast quail with salted caramel shallot tarte Tatin and hazelnuts', 'Fillet of halibut with potato crust, bouillabaisse style sauce and anchovy aioli', 'Trio of raspberry desserts']"
+Salt,https://guide.michelin.com/gb/en/warwickshire/stratford-upon-avon/restaurant/salt522869,"['Carrot cooked in chicken fat with pickled carrot and chicken skin', 'Wagyu beef rump with black garlic emulsion, artichoke and pickled shimeji mushrooms', 'Chocolate and parsnip custard with miso ice cream and passion fruit']"
+Le Champignon Sauvage,https://guide.michelin.com/gb/en/gloucestershire/cheltenham/restaurant/le-champignon-sauvage,"['Cannelloni of lobster and salted lemon with swede purée, pear, lobster juices', 'Loin and braised breast of Shurdington lamb with Jerusalem artichoke', 'Bitter chocolate and pistachio délice with pistachio ice cream']"
+Gidleigh Park,https://guide.michelin.com/gb/en/devon/chagford/restaurant/gidleigh-park,
+Hambleton Hall,https://guide.michelin.com/gb/en/rutland/upper-hambleton/restaurant/hambleton-hall,"['Terrine of root vegetables with autumn truffle and Jerusalem artichoke ice cream', 'Loin and sweetbreads of Launde lamb with feta and confit tomatoes', 'Tartlet of fig and walnut with fig leaf ice cream']"
+wilks,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/wilks,
+Bulrush,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/bulrush,"['Crab, black lime and cucumber', 'Lamb, onion, Ratte potato and sweetbread', 'Truffle and croissant mousse']"
+Casamia,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/casamia,"['Tempura potato', 'Langoustine, plum', 'Rum & raisin']"
+Paco Tapas,https://guide.michelin.com/gb/en/south-gloucestershire/bristol/restaurant/paco-tapas,"['Tortilla Española', 'Stuffed quail', 'Crema Catalana']"
+Pony & Trap,https://guide.michelin.com/gb/en/bath-and-north-east-somerset/chew-magna/restaurant/pony-trap,
+The Dining Room,https://guide.michelin.com/gb/en/wiltshire/malmesbury/restaurant/the-dining-room193454,"[""'Risotto', chorizo, scallop"", 'Beef from the manor with kimchi and nashi pear', 'Chocolate, buttermilk and chamomile']"
+Bybrook,https://guide.michelin.com/gb/en/wiltshire/castle-combe/restaurant/bybrook,"['Isle of Orkney scallop with celeriac, smoked eel and apple', 'Wiltshire lamb, violet artichoke, black garlic, girolles, turnip and jus gras', 'Oakchurch raspberries, set Jersey cream and nougatine']"
+Restaurant Hywel Jones by Lucknam Park,https://guide.michelin.com/gb/en/wiltshire/colerne/restaurant/restaurant-hywel-jones-by-lucknam-park,"['Scottish diver scallop with glazed and smoked eel, Bramley apple and horseradish', 'Wiltshire lamb, heritage carrot, cumin, granola and yoghurt', 'Tahitian vanilla crème brûlée, elderflower and gooseberry']"
+Olive Tree,https://guide.michelin.com/gb/en/bath-and-north-east-somerset/bath/restaurant/olive-tree,"['Raw Orkney scallop, horseradish, pink grapefruit and dill', 'Rhug Estate fallow deer with celeriac, pickled elderberries, bitter chocolate and cabbage', 'Tulakalum chocolate with yoghurt sorbet, perilla and olive oil']"
+Lympstone Manor,https://guide.michelin.com/gb/en/devon/lympstone/restaurant/lympstone-manor,"['Millefeuille of tuna and scallop with beetroot, honey, soy and caviar', 'Loin of venison with fig purée, glazed salsify, chestnuts and jasmine sauce', 'Green apple']"
+The Neptune,https://guide.michelin.com/gb/en/norfolk/hunstanton/restaurant/the-neptune,"['Norfolk quail with cucumber, puffed rice, carrot and ginger purée', 'Wild sea bass with sweetcorn and Brancaster mussels', 'Toasted rice panna cotta with figs, honey madeleines and almond yoghurt']"
+Elephant,https://guide.michelin.com/gb/en/torbay/torquay/restaurant/elephant,"['Roast Devon scallop with barbecued Ibérico pork, sweet pea sauce and lovage oil', 'Torbay plaice with asparagus, Granny Smith apple and Brixham mussel cream', 'Salted caramel chocolate mousse with brown butter ice cream and cookie crumb']"
+Oxford Kitchen,https://guide.michelin.com/gb/en/oxfordshire/oxford/restaurant/oxford-kitchen,
+Nut Tree,https://guide.michelin.com/gb/en/oxfordshire/murcott/restaurant/nut-tree,"['Twice-baked Old Winchester cheese soufflé with mustard and truffle', 'Fillet of beef with braised brisket, mushroom pie and pomme purée', 'Chocolate délice with salted caramel and pistachio ice cream']"
+Morston Hall,https://guide.michelin.com/gb/en/norfolk/morston/restaurant/morston-hall,"[""Spelt risotto, ewe's curd and peas"", ""Richard Vaughan's Middle White suckling pig"", 'Bungay raw milk cream, blackcurrant']"
+Red Lion Freehouse,https://guide.michelin.com/gb/en/wiltshire/east-chisenbury/restaurant/red-lion-freehouse,
+Blackbird,https://guide.michelin.com/gb/en/west-berkshire/newbury/restaurant/blackbird552018,
+Woodspeen,https://guide.michelin.com/gb/en/west-berkshire/newbury/restaurant/woodspeen,"['Cornish crab risotto, pickled fennel, lemon emulsion and samphire', 'Roast brill on the bone to share with cauliflower purée, hazelnut, caper and shallot dressing, white wine sauce', 'Plum and almond cake, nut brittle, crème fraiche ice cream, Woodspeen olive oil and blueberries']"
+The Coach,https://guide.michelin.com/gb/en/buckinghamshire/marlow/restaurant/the-coach,"['Whole stuffed rotisserie quail with wild mushrooms and bacon', 'Chicken Kiev with parsnip and pine nut rarebit', 'Profiteroles with soured vanilla cream and chocolate sauce']"
+Crown,https://guide.michelin.com/gb/en/windsor-and-maidenhead/burchett-s-green/restaurant/crown442549,"[""'Memory of Cairo'"", ""Highland beef steamed on string with 'a rather nice sauce'"", 'Bitter brittle chocolate with walnut blancmange and violet']"
+L'Ortolan,https://guide.michelin.com/gb/en/wokingham/shinfield/restaurant/l-ortolan,"['Cep tortellini, juniper, Tunworth', 'John Dory, snails, parsley', 'Summer pudding, brioche, summer fruits, lemon balm']"
+Hinds Head,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/hinds-head,"['Earl Grey tea smoked salmon', 'Oxtail and kidney pudding', 'Quaking pudding']"
+Black Rat,https://guide.michelin.com/gb/en/hampshire/winchester/restaurant/black-rat,
+Matt Worswick at The Latymer,https://guide.michelin.com/gb/en/surrey/bagshot/restaurant/matt-worswick-at-the-latymer,
+Coworth Park,https://guide.michelin.com/gb/en/windsor-and-maidenhead/ascot/restaurant/coworth-park,"['Caviar tart with Cornish crab, yuzu and cucumber', 'Kentish lamb with baby gem, goat’s cheese and mint', 'Coworth signature chocolate, Blue Mountain coffee and salted caramel']"
+Tudor Room,https://guide.michelin.com/gb/en/surrey/egham/restaurant/tudor-room,"['Turbot with watermelon, tomato, coriander and hot & sour Thai broth', 'Fallow deer, celeriac, pine, ragu tartlet and pickled lingonberries', 'Chocolate crémeux with Blue Mountain coffee and yoghurt sorbet']"
+The Glasshouse,https://guide.michelin.com/gb/en/greater-london/kew/restaurant/the-glasshouse,"['Roast and shaved cauliflower with cashew milk, truffle and soused oyster mushrooms', 'Roast cod with chorizo, courgettes, coco beans, chill and garlic', 'Baked Alaska, passion fruit, mango and lime']"
+La Trompette,https://guide.michelin.com/gb/en/greater-london/chiswick/restaurant/la-trompette,"['Chargrilled squid with harissa, sour cream, courgette and fennel', 'Suckling pig, creamed polenta, fennel, grapes and sage', 'Apple crumble soufflé with buttermilk ice cream']"
+Tim Allen's Flitch of Bacon,https://guide.michelin.com/gb/en/essex/little-dunmow/restaurant/tim-allen-s-flitch-of-bacon,
+River Café,https://guide.michelin.com/gb/en/greater-london/hammersmith/restaurant/river-cafe,"['Chargrilled squid with fresh chilli and rocket', 'Wood-roasted turbot on the bone', 'Chocolate Nemesis']"
+Kitchen W8,https://guide.michelin.com/gb/en/greater-london/kensington/restaurant/kitchen-w8,"['Grilled Cornish mackerel, smoked eel, sweet mustard and leek', 'Haunch of venison with cracked wheat, fig, beetroot and green peppercorns', 'Dark chocolate and peanut crémeux with salted caramel and lime']"
+Trishna,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/trishna,"['Aloo Tokri Chat', 'Tandoori Lamb Chops', 'Chocolate mousse chikki']"
+Roganic,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/roganic,
+Locanda Locatelli,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/locanda-locatelli,"['Chargrilled squid, rocket, garlic and chilli', 'Scottish rib-eye steak, smoked aubergine and red onion', 'Banana and chocolate fritters with Locanda Locatelli tea ice cream']"
+Texture,https://guide.michelin.com/gb/en/greater-london/marylebone/restaurant/texture,
+Portland,https://guide.michelin.com/gb/en/greater-london/regent-s-park/restaurant/portland,"['Squid ink linguine, cockles and trout roe', 'Fallow deer, celeriac, trompettes and damson', 'Chocolate, milk, hazelnut']"
+Harwood Arms,https://guide.michelin.com/gb/en/greater-london/fulham/restaurant/harwood-arms,"['Venison tartare', 'Fallow Prickett Wellington', 'Blackcurrant and apple oat crumble pie']"
+Pied à Terre,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/pied-a-terre,"['Smoked quail with celeriac, truffle and hazelnuts', 'Dover sole à la barigoule', 'Kumquat soufflé with vanilla ice cream']"
+The Ninth,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/the-ninth,"['Salted beef cheek with bone marrow and oxtail consommé', 'Chargrilled sea bream with lemon confit and white miso', 'Pain perdu with vanilla ice cream']"
+Kai,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/kai123638,"['Cold lai mien noodle with enoki mushrooms', 'Roasted Chilean sea bass with Chinkiang vinegar syrup', 'Durian and vanilla soufflé']"
+Pollen Street Social,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/pollen-street-social,"['Porthilly oyster, smoked crapaudine beetroot and Oscietra caviar', 'Lake District rack of lamb and neck with wild celery', 'Dark chocolate and sesame praline mousse with textures of chocolate']"
+Hakkasan Mayfair,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/hakkasan-mayfair,"['Browned butter black bean scallop', ""Hakkasan signature Peking duck's'"", 'Strawberry and hibiscus garden']"
+The Square,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/the-square69391,
+Alyn Williams at The Westbury,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/alyn-williams-at-the-westbury,
+Benares,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/benares,"['Hand-dived Scottish scallop, coconut curry and Malabar paratha', 'Garam masala spiced fillet of muntjac, plantain chips and buttered pao', 'Bhapa doi, raspberry and passion fruit']"
+Hakkasan Hanway Place,https://guide.michelin.com/gb/en/greater-london/bloomsbury/restaurant/hakkasan-hanway-place,"['Smoked beef ribs with jasmine tea', 'Spicy prawn with lily bulb and almond', 'Jivara bomb']"
+Social Eating House,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/social-eating-house,
+Galvin at Windows,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/galvin-at-windows,
+Murano,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/murano,"['Carnaroli risotto, squash, sage and prosciutto', 'Loin of venison with smoked beetroot and pickled blackberries', 'Caramelised Amalfi lemon tart']"
+Marcus,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/marcus,"['Roast Orkney scallop with chestnut, bacon and celeriac', 'Herdwick lamb with Jerusalem artichoke and preserved Melfort Farm beetroot', 'Gâteau Opéra, peanut butter and plum']"
+Sabor,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/sabor,"['Tortilla Gallega', 'Wood oven-roasted suckling pig', 'Cuajada de turrón, oloroso cream']"
+Clock House,https://guide.michelin.com/gb/en/surrey/ripley/restaurant/clock-house,"['Spelt and beer with onion and smoked cheddar', 'Duck with cobnuts, damson and elderflower', 'Blackberry, liquorice and wood sorrel']"
+Yauatcha Soho,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/yauatcha-soho,
+Céleste,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/celeste,"['Crispy organic egg with kadaif strands and wild mushrooms', 'Lobster ravioli with shellfish velouté', 'Millefeuille with pecan nuts, milk chocolate and salted caramel ice cream']"
+Gymkhana,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/gymkhana,"['Duck egg burji with lobster', 'Wild muntjac biryani', 'Saffron falooda']"
+Amaya,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/amaya,"['Black pepper chicken tikka', 'Chilli and lime lamb chops', 'Chocolate rasmalai']"
+Pétrus,https://guide.michelin.com/gb/en/greater-london/belgravia/restaurant/petrus284688,"['Isle of Skye scallop with coastal herbs, lemon and olive oil sabayon', 'Devonshire duck, bitter orange, fennel and Assam pepper', '‘After Eight’']"
+Veeraswamy,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/veeraswamy,"['Tandoori wild tiger prawns with coriander and mint', 'Roast duck vindaloo', 'Caramelised banana kulfi']"
+Barrafina,https://guide.michelin.com/gb/en/greater-london/soho/restaurant/barrafina,"['Prawn fritura', 'Turbot with salsa verde', 'Santiago tart']"
+Hide,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/hide,"['Glazed chestnuts with muscovado and fennel pollen', 'Squab pigeon with beetroot, savoury pistachio praline, pickled rose petals and summer berries', 'Meadowsweet milk veil, quince, bee pollen and this morning’s ricotta']"
+Ritz Restaurant,https://guide.michelin.com/gb/en/greater-london/westminster/restaurant/ritz-restaurant,"['Langoustine à la nage with bronze fennel', 'Yorkshire grouse, juniper, blackberry and walnut', 'Ritz chocolate soufflé, vanilla Chantilly']"
+Elystan Street,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/elystan-street,"['Hand-cut strozzapreti with black truffles, chicken stock, parmesan and butter', 'Haunch of venison with tarte fine of celeriac and quince', 'Caramelised lemon tart with yoghurt ice cream']"
+Seven Park Place,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/seven-park-place,"['Hand-dived scallops with celeriac & apple purée and roast celeriac emulsion', 'Breast of duck with blackcurrants and beetroot', 'Poached plums with Shropshire honey ice cream']"
+Ikoyi,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/ikoyi,"['Plantain caramelised in kombu and ginger', 'Hereford beef, peppercorn sauce and grilled shishito peppers', 'Cep ice cream with coffee oil']"
+Aquavit,https://guide.michelin.com/gb/en/greater-london/saint-james-s/restaurant/aquavit501082,
+Five Fields,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/five-fields,"['Scallop with seaweed and turnip', 'Fallow deer, pumpkin and maitake', 'Honey, milk and marzipan']"
+Dining Room at The Goring,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/dining-room-at-the-goring,"['Eggs Drumkilbo with lobster, caviar and Granny Smith apple', 'Red Horn beef Wellington for two, king oyster mushrooms and braised short rib', 'Milk and dark chocolate marquis, salted caramel and vanilla ice cream']"
+St John,https://guide.michelin.com/gb/en/greater-london/clerkenwell/restaurant/st-john,"['Roast bone marrow and parsley salad', 'Roast wigeon, sour cabbage, bacon and prune', 'Eccles cake with Lancashire cheese']"
+Quilon,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/quilon,"['Cauliflower chilli fry with yoghurt and curry leaves', 'Lobster with butter, pepper and garlic', 'Chocolate ganache, coconut cream and raspberry sorbet']"
+Club Gascon,https://guide.michelin.com/gb/en/greater-london/london/restaurant/club-gascon,"['Roast duck liver, ‘flambadou’ with crackling, oyster sorbet and yuzu', 'Glazed halibut with beetroot dashi, grapes and verjus', 'Sweet wild mushroom delicacy with cep ice cream, hay and pine']"
+A. Wong,https://guide.michelin.com/gb/en/greater-london/victoria/restaurant/a-wong,"['Chilled ‘smacked’ cucumber with trout roe, chilli and garlic vinegar', 'Dong Po braised suckling pig with purple rice and pickled ginger', 'Coconut water ice with bird’s nest, macerated mulberries and yoghurt']"
+The Clove Club,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/the-clove-club,"['Hot-smoked Wiltshire trout with almond milk, prune kernel oil and caviar', 'Pheasant consommé with 100 year old Madeira', 'Amalfi lemonade with white Kampot pepper ice cream']"
+Leroy,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/leroy,"['Salad of chicory with walnut dressing and Ossau-Iraty', 'Challans duck, celeriac, sautéed wild mushrooms, chestnuts and hispi cabbage', 'Blackberry, grape and almond tart']"
+Angler,https://guide.michelin.com/gb/en/greater-london/finsbury/restaurant/angler392235,"['Tartare of Cornish mackerel with oyster cream, green apple and shiso', 'Newlyn cod with new season ceps, Cornish squid and caramelised parsley root', 'Greek yoghurt, 1000 flower honey, banana and hazelnuts']"
+Brat,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/brat,"['Young leeks with fresh cheese', 'Grilled whole turbot', 'Burnt cheesecake']"
+Lyle's,https://guide.michelin.com/gb/en/greater-london/shoreditch/restaurant/lyle-s,"['Grilled dried mackerel with preserved gooseberries', 'Ryeland mutton chop, coco beans and fennel', 'Chocolate mousse with sourdough ice cream']"
+Galvin La Chapelle,https://guide.michelin.com/gb/en/greater-london/spitalfields/restaurant/galvin-la-chapelle,"['Lasagne of Dorset crab with beurre Nantais and pea shoots', 'Tagine of Bresse pigeon, couscous, confit lemon and harissa sauce', 'Tarte Tatin with Normandy crème fraîche']"
+City Social,https://guide.michelin.com/gb/en/greater-london/city-of-london/restaurant/city-social,"['Hamachi ceviche, langoustine tartare, avocado, radish and kalamansi', 'Sea bass with Jerusalem artichoke, chicken oyster, Savoy cabbage and truffle', 'Banana soufflé with rum and raisin ice cream']"
+La Dame de Pic,https://guide.michelin.com/gb/en/greater-london/city-of-london/restaurant/la-dame-de-pic,"['Berlingots', 'Sea bass caviar, “The way my father loved”, champagne', 'The white millefeuille']"
+Story,https://guide.michelin.com/gb/en/greater-london/bermondsey/restaurant/story,"[""Bread and 'dripping'"", 'Venison, yeasted cauliflower and juniper', 'Almond and dill']"
+Trinity,https://guide.michelin.com/gb/en/greater-london/clapham-common/restaurant/trinity,"[""Crispy pig's trotters with sauce gribiche and crackling"", 'Anjou pigeon with beetroot', 'Apple tarte Tatin with prune and Armagnac ice cream']"
+Chez Bruce,https://guide.michelin.com/gb/en/greater-london/wandsworth/restaurant/chez-bruce,"['Hand-rolled cavatelli with braised duck', 'Roast pork with ham hock, stuffed mushroom and crushed squash', 'Prune, almond and Armagnac tart']"
+Sorrel,https://guide.michelin.com/gb/en/surrey/dorking/restaurant/sorrel545459,"['Pork belly, ponzu, swede, crushed apple and langoustine', 'Partridge with parsley root, cocoa and coq au vin sauce', 'Grapefruit, coffee, coconut and passion fruit']"
+Restaurant Tristan,https://guide.michelin.com/gb/en/west-sussex/horsham/restaurant/restaurant-tristan,"['Rabbit and leek millefeuille', 'Moroccan-spiced partridge with smoked aubergine, saffron-braised celeriac and greengage chutney', 'English strawberry parfait with burnt toast ice cream and brown butter shortbread']"
+Gravetye Manor,https://guide.michelin.com/gb/en/west-sussex/gravetye/restaurant/gravetye-manor,"['Gravetye garden salad with confit yolk, vegetables and flowers', 'Newhaven sea bass with penny bun, cauliflower and whelk & chicken sauce', 'Raspberry soufflé with fennel ice cream']"
+The Sportsman,https://guide.michelin.com/gb/en/kent/seasalter/restaurant/the-sportsman,"['Mushroom and artichoke tart', 'Turbot braised in vin jaune with smoked pork', 'Dark chocolate and salted caramel tart with raw crème fraîche']"
+West House,https://guide.michelin.com/gb/en/kent/biddenden/restaurant/west-house,
+Fordwich Arms,https://guide.michelin.com/gb/en/kent/fordwich/restaurant/fordwich-arms,"['Duck liver parfait, Sauternes jelly and warm doughnuts', 'South coast turbot with pumpkin, cabbage and smoked bacon', ""Fordwich Arms' Snickers bar""]"
+Samphire,https://guide.michelin.com/gb/en/saint-helier/saint-helier-saint-helier/restaurant/samphire392987,
+Bohemia,https://guide.michelin.com/gb/en/saint-helier/saint-helier-saint-helier/restaurant/bohemia,"['Local white crab with tomato pressing and whole grain mustard sorbet', 'Dry-aged Jersey Angus sirloin and braised short rib of beef with sourdough ‘sarnie’, onion and yeast textures', 'Ivoire chocolate, pistachio and raspberry']"
