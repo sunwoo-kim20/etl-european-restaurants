@@ -1,27 +1,16 @@
 # Michelin Star Restaurants MongoDB
 
-A 
+created by Sunwoo Kim and Elizabeth Odundo
 
-## Data:
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+## Project Description
 
-Michelin restaurant data was extracted from Kaggle (https://www.kaggle.com/jackywang529/michelin-restaurants).
+The Michelin Star Restaurant database project coalesces data from three different sources (.csv files, API calls, and web scraping) and creates a non-relational database using MongoDB. The completed database contains three collections (one for each level of Michelin star ranking) and will hold the following information on each Michelin star restaurant: restaurant name, city, region, type of cuisine, url to website, nearest hotel/lodging, and specialty dishes. 
 
-The data includes one, two, three Michelin star restaurants from the following regions:
+## Data
 
-Austria, California, Chicago, Croatia, Czech Republic, Denmark, Finland, Greece, Hong Kong, Hungary, Iceland, Macau, Norway, New York City, Poland, Ireland, Rio de Janeiro, Sao Paulo, South Korea, Singapore, Sweden, Taipei, Thailand, Washington DC, and United Kingdom.
-
-The following regions are not included in the dataset:
-
-Belgium, France, Germany, Italy, Japan, Luxembourg, Netherlands, Portugal, China, Spain, and Switzerland.
+* [Michelin restaurant data] (https://www.kaggle.com/jackywang529/michelin-restaurants) from Kaggle
+* Google Places API
+* [Michelin Guide] (https://guide.michelin.com/en/restaurants)
 
 
-Google Places API
 
-
-## Tools Used:
