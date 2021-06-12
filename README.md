@@ -8,9 +8,9 @@ The Michelin Star Restaurant database project coalesces data from three differen
 
 ## Data
 
-* [Michelin restaurant data] (https://www.kaggle.com/jackywang529/michelin-restaurants) from Kaggle
+* [Michelin restaurant data](https://www.kaggle.com/jackywang529/michelin-restaurants) from Kaggle
 * Google Places API
-* [Michelin Guide] (https://guide.michelin.com/en/restaurants)
+* [Michelin Guide](https://guide.michelin.com/en/restaurants)
 
 
 
