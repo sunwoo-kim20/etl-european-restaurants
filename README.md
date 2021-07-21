@@ -1,6 +1,6 @@
 # Michelin Star Restaurants MongoDB
 
-created by Sunwoo Kim and Elizabeth Odundo
+created by Sunny Kim and Elizabeth Odundo
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -15,7 +15,6 @@ created by Sunwoo Kim and Elizabeth Odundo
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -38,6 +37,7 @@ The Michelin Star Restaurant database project coalesces data from three differen
 
 * [Michelin restaurant data](https://www.kaggle.com/jackywang529/michelin-restaurants) from Kaggle
 * Google Places API
+* [Michelin Guide](https://guide.michelin.com/en/restaurants)
 
 ### Built With
 
@@ -61,7 +61,14 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Install Python Libraries
    ```sh
-   pip install 
+   !pip install pandas
+   !pip install requests
+   !pip install json
+   !pip install splinter
+   !pip install bs4
+   !pip install webdriver_manager.chrome
+   !pip install time
+   !pip install pymongo
    ```
 3. Create a Google Cloud Platform API key and add unique key to a config.py file
    ```sh
@@ -73,9 +80,9 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This application allows users to grab data on Michelin star restaurants efficiently through MongoDB queries. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![alt text](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/michelin-db-screenshot.png?raw=true)
 
 
 
