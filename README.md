@@ -82,8 +82,8 @@ To get a local copy up and running follow these simple steps.
 
 This application allows users to grab data on Michelin star restaurants efficiently through MongoDB queries. 
 
-![Screenshot of Michelin star documents in MongoDBCompass](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/doc/images/michelin-db-screenshot.png?raw=true)
-![Screenshot of calling data through pymongo](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/doc/images/document-calls.png?raw=true)
+![Screenshot of Michelin star documents in MongoDBCompass](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/docs/images/michelin-db-screenshot.png?raw=true)
+![Screenshot of calling data through pymongo](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/docs/images/document-calls.png?raw=true)
 
 
 
