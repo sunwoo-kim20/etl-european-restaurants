@@ -80,9 +80,11 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This application allows users to grab data on Michelin star restaurants efficiently through MongoDB queries. 
+This application allows users to grab data on Michelin star restaurants efficiently through MongoDB.
 
 ![Screenshot of Michelin star documents in MongoDBCompass](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/docs/images/michelin-db-screenshot.png?raw=true)
+
+Data includes nearest hotel to the restaurant and the restaurant's specialty dishes.
 ![Screenshot of calling data through pymongo](https://github.com/sunwoo-kim20/etl-michelin-restaurants/blob/main/docs/images/document-calls.png?raw=true)
 
 
@@ -90,7 +92,7 @@ This application allows users to grab data on Michelin star restaurants efficien
 <!-- CONTACT -->
 ## Contact
 
-Sunwoo Kim - s.kim32415@gmail.com
+Sunny Kim - s.kim32415@gmail.com
 
 Project Link: [https://github.com/sunwoo-kim20/sqlalchemy-challenge](https://github.com/sunwoo-kim20/sqlalchemy-challenge)
 
