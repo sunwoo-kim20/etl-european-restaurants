@@ -32,6 +32,8 @@ created by Sunny Kim and Elizabeth Odundo
 
 The Michelin Star Restaurant database project coalesces data from three different sources (.csv files, API calls, and web scraping) and creates a non-relational database using MongoDB. The completed database contains three collections (one for each level of Michelin star ranking) and will hold the following information on each Michelin star restaurant: restaurant name, city, region, type of cuisine, url to website, nearest hotel/lodging, and specialty dishes. 
 
+The nearest lodging to the restaurant is obtained by using the latitude and longitude of each restaurant to locate the loding with an API call to the Google Places API. The specialty dishes are scraped using Splinter from the Michelin Guide's website: which includes information on each Michelin star ranked restaurant.
+
 
 ## Data
 
